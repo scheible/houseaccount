@@ -1,0 +1,9 @@
+*.pyc
+build/
+dist/
+venv/
+.idea/
+*.spec
+*.xlsx
+*.db
+__pycache__/
